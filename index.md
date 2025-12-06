@@ -1,23 +1,26 @@
 ---
-title: detlab
+title: FortiLearn
 layout: default
 ---
 
-# detlab
+# FortiLearn
 
-Malware detection research & network security engineering.
+Fortinet NSE Certification Study
 
-Welcome to **detlab** – my personal space for:
+Welcome to **FortiLearn** – my personal learning space for:
 
-- Signature-based malware detection (YARA, static analysis)
-- Antivirus engine research & AV history
-- Network security engineering (Fortinet NSE, firewalls, IPS/UTM)
-- Small tools and experiments
+- Documenting my full Fortinet journey starting at NSE 1
+- Understanding the threat landscape
+- Mapping threats to network security defenses and controls
+- Hands-on firewall and UTM labs (NAT, VPNs, routing, IPS policies)
+- FortiGate CLI notes and configuration preferences
+- Network diagrams and traffic-flow breakdowns
+- Troubleshooting journals to document and learn from mistakes
+
+## Ambition
+
+Near-term: To achieve NSE 6, starting from near-zero hands-on familiarity with Fortinet products, using this repository to document everything learned along the way.
+
+Long-term: To achieve NSE 8 as a major career milestone and capstone goal.
 
 ## Posts
-
-I will be posting deep dives on:
-
-- IKARUS, Dr.Web, K7, eScan, Nano & other “weird” AV engines
-- Signature-heavy detection philosophies
-- Fortinet NSE lab notes and my progress

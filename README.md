@@ -1,2 +1,2 @@
-# Detlab
-Detlab is my personal research project documenting how antivirus tools rose, fell, merged, and vanished. It focuses on detection techniques, market history, controversies, and obscure security software that shaped the security products we know today.
+# FortiLearn
+FortiLearn is my personal study repo for the Fortinet NSE Certification Track. It contains lab notes, configurations, diagrams and assorted exam prep material. Not affiliated with or endorsed by Fortinet.
